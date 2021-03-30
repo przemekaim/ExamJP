@@ -1,0 +1,568 @@
+nowy 								新しい
+japonia								日本
+japonczyk							日本人
+polska								ポランド
+niemcy								ドイツ
+gora								山(やま）
+hiszpania							スペイン
+kobieta								女の人
+milosc 								あい
+zielony、niebieski					あおい
+spotykac							あう
+mowic								いう
+nie									いいえ
+kupowac								買う
+pagorek								おか
+czerwony							あかい
+jesien								あき
+sluchac								きく
+pisac								かく
+staw								いけ
+swit								あけ
+dworzec								駅（えき）
+karp								こい
+glos								こせ
+tutaj								ここ
+wzgorze								さか
+parasol								かさ
+ｋwitnac								さく
+rano								あさ
+sarna								しか
+stopa、noga							あし
+miejsce								せき
+pot									あせ
+klamstwo							うそ
+tam									そこ
+kamien								いし
+jutro								あす
+oddawac								かえす
+piosenka							うた
+osoba;　sposob						かた
+polnoc								北（きた）
+jeden								一
+usta								口（くち）
+siedem								七
+goracy								あつい
+uderzac								うつ
+zwyciezac，wygrywac					かつ
+buty								くつ
+stac								たつ
+reka								手（て）
+po,　potem							あと
+dzwiek								おと
+rzecz								こと
+na　zewnatrz							そと
+czas								とき
+rok									年（とし）
+srodek								なか
+plakac								なく
+gruszka								なし
+lato								なつ
+polka								たな
+krab								かに
+kraj								国（くに））
+dolina								たに
+mieso								にく
+zachod								西（にし）
+dzien								日（にち）
+pies								いぬ
+umierac								死ぬ（しぬ）
+starsza　siostra						あね
+pieniadze							お金
+kot									ねこ
+goraczka							ねつ
+ten									この
+tamten								その
+mama								母（はは）
+pudelko								はこ
+paleczki							はし
+ciagnac								ひく
+czlowiek							人（ひと）
+pokrywka							ふた
+lodka								ふね
+kosc								ほね
+sliwka								うめ
+brzoskwinia							もも
+morze								うみ
+ucho								みみ
+wrzatek								おゆ
+sen									ゆめ
+noc									よる
+okragly								まるい
+wioska								むら
+gora								山（やま）
+ciemnosc							やみ
+czytac								よむ
+robic								やる
+my									われわれ
+klucz								かぎ
+broda								ひげ
+godzina								じ
+calkiem								ずいぶん
+szuflada							ひきだし
+wychodzic							でる
+jaki								どんあ
+wkrotce，szybko						すぐ
+czesc								ぶぶん
+roza								バラの花
+jedna　minuta						一分（いっぷん）
+pelny								いっぱい
+dziecinny							こどもっぽい
+wspanialy							すばらし
+dzisiaj								今日（きょう）
+restauracja							りょうりや
+gosc,　klient						おきゃくさん
+mleko								ぎゅうにゅう
+zdjecie								しゃしん
+adres								じゅうしょ
+przygotrowania						じゅんび
+gimnazjum							中学校（ちゅうがっこ）
+szpital								びょういん
+obiad								ちゅうしょく
+slub								けっこん
+jeden　miesiac						いっかげつかん
+18　lat　								じゅうはっさい
+4　dzien　miesiaca					よっか
+zajecia								じゅぎょう
+szkola　podstawowa					小学校（しょうがっこ）
+weekend								しゅうまつ
+ciezka　choroba						じゅうびょう
+poczta								ゆうびんきょく
+park								こえん
+pojutrze							あさって
+wczoraj								きのう
+muzeum								はくぶつかん
+troche								ちょっと
+ziemniak							じゃがいも
+opis								びょうしゃ
+sezam　i　sol							ごましお
+bocian								こうのとり
+niedziela							日曜日
+jeden　tydzien						一週間（いっしゅうかん）
+mydlo								せっけん
+czarniutenki						まっくろ
+bielutki							まっしろ
+imie　meskie							いちろう
+karetka								きゅうきゅうしゃ
+ogolny								いっぱんてきな
+uniwersystet						大学（だいがく）
+szkoda								ざんえん
+umiec,　potrafic						できる
+czas								時間（じかん）
+zlodziej							どろぼう
+konstytucja							けんぽう
+tradycja							でんとう
+obcokrajowiec						外国人（がいこくじん）
+ZOO									どうぶつえん
+OK,　dobrze							だいじょうぶ
+przez　caly　dzien					いちにちじゅう
+krok　po　kroku						いっぽいっぽ
+cudza　rodzina						ごかぞく
+koniecznie							ぜひ
+nazwa　potrawy						てんぷら
+surowa　ryba							さかな
+samolot								ひこうき
+jeden　po　drugim						ひとつづつ
+jedynak								ひとりっこ
+chiny								中国（ちゅうごく）
+10　dzien　miesiaca					とおか
+daleki								とおい
+madry								かしこい
+bank								ぎんこう
+sniadanie							ちょうしょく
+bliznieta							ふたご
+wspolczesnosc						げんだい
+biec								はしる
+zeszly　rok							きょねん
+2　miesiace							にかげつかん
+przyszly　tydzien					来週（らいしゅう）
+jablko								りんご
+portfel								さいふ
+spacer								さんぽ
+zimny								さむい
+wysoki								高い（たかい）
+starszy								としとった
+dzien　dobry(przed　poludniem）		おはよう（ございます）
+dzien　dobry(po　poludniu）			こんにちは　！！
+dobry　wieczor						こんばんは　！！　わ　→　はく
+dobranoc							おやすみあなさい
+do　widzenia　						さようなら
+przepraszam、musze　juz　isc			しつれいします
+do　zobaczenia　jutro					また、明日（あした）
+do　zobaczenia、czesc					じゃ、また
+jak　sie　masz						おげんきですか（お元気ですか）
+wychodze（z　wlasnego　domu）			いってきます
+uwazaj　na　siebie					いってらっしゃい
+juz　jestem							ただいま
+witaj　z　powrotem					おかれいなさい
+bardzo　mi　milo　poznac（1　spotkanie）　	はじめまして						
+dziekuje(bardzo)(za　to　co　robisz）	（どうも）ありがとう（ございます）
+dziekuje(bardzo)(za　to　co　zrobiles）	（どうも）ありがと（ございました）
+prosze								どうぞ
+prosze、poprosze						おねがいします
+przepraszam(bardzo）					（どうも）すみません
+przepraszam；prosze　o　wybaczenie		ごめんあさい（ごめんください）
+nie、dziekuje；　wystarczy				けっこうです
+na　zdrowie							かんぱい
+smacznego(przed　posilkiem）			いただきます
+dziekuje(po　posilku）				ごちそうさまでした
+halo								もしもし
+ach、tak？							（ああ）、そうですか
+tak、to　prawda						そうですね
+to　dobrze							いいですね
+to　dobrze							よかったですね
+to　niedobrze；　tak　byc　nie　moze		（それは）いけません
+to　straszne；wspolczuje　ci			（それは）たいへんですね
+moje　gratulacje						おめでとうございます
+na　tym　zakoncze						じゃあ、これで
+zycze　szybkiego　powrotu　do　zdrowia	おだいじに
+nazwisko、imie　						名前（なまえ）
+student								学生（がくせい）
+japonia								日本
+nauka								べんきょう
+dla；po　to　zeby						のために
+przyjechalem						きました
+ekonomia							けいざい
+zatem；　no　wiec						じゃ
+ja(zaimek　meski）					ぼく
+uczen								せいと
+stawac　sie、byc						なります（なる）
+przepraszam...						しつれいですが
+dawno　sie　nie　wiedzielismy			しばらくですね
+nazywam　sie							もうします
+akademia　ekonomiczna				けいざいだいがく
+potrawy、jedzenie					りょうり
+zimno								さむい
+chory								びょうきな
+zdrowy								元気な（げんきな）
+niestety、　szkoda					ざんえんながら
+wracac								かえす
+nie ma za co 						どういたしまして(douitashimashite)
+sklep								みせ
+blisko								ちかく
+naprzeciwko							むこう
+na,ponad							上（うえ）
+obok								そば
+po　lewej(stronie）					ひだり（がわに）
+po　prawej(stronie)					みぎ（がわに）
+pod,　ponizej						した
+pomiedzy							あいだ
+przed　								前（まえ）
+w　poblizu							となり
+w　srodku							中（なか）
+z　tylu、za							うしろ
+ambasada							たいしかん(taishikan）
+antykwariat							ふるほにゃ
+apteka								くすりや(kusuriya)
+bar sushi							すしや
+automat　sprzedajacy					じどうはんばいき(jidouhanbaiki)
+basen								スイミングプール
+biblioteka							としょかん
+biuro　podrozy						りょこうがいしゃ(ryokougaisha)
+ciastkarnia							おかしや
+firma								会社（かいしゃ）
+fryzjer　meski						とこや(tokoya)
+hotel　w　stylu　japonskim				りょうかん
+kasa　biletowa						きっぷうりば(kippu　uriba）
+kawiarnia							きっさてん(kissaten)
+kino								えいがかん
+kiosk								ばいてん(baiten)、キオスク（KIOSUKU）
+lotnisko							くうこう(kuukou)
+metro								ちかてつ(chikatetsu)
+park								こうえん(kouen)
+sklep　calodobowy					コンビニ(konbini)
+sklep　miesny						にくや(nikuya）
+warzywniak							やおや(yaoya)
+przystanek　autobusowy				バスれい(basu　rei)
+przystanek　tramwajowy				トラムれい(toramu　rei）
+dialog,rozmowa						会話（かいわ）
+zwiedzanie							かんこう(kankou)
+swiatynia　czystej　wody				kiyomizudera
+gdzie								どこ
+prosto								まっすぐ(massugu)
+isc(pieszo)							あるく(aruku)
+nastepny							つぎの(tsugi no)
+skrzyzowanie						こうさてん(kousaten)
+skrecac								まがる(magaru)
+prosze								ください
+tam									あそこ
+wspinac　sie，isc　pod　gore			のぼる(noboru)
+maly								ちいさい(chiisai)
+pamiatka							おみやげ(omiyage)
+docierac,przybywac　na　miejsce		つく(tsuku)
+byc　widocznym						みえる(mieru)
+droga								みち(michi)
+sluchac、pytac						きく
+okolica								へん(hen)
+starsza　pani						おばあさん(obaasan)
+myslec								おもう(omou)
+rog									かど(kado)
+szary								はいいろ(haiiro)
+budynek								ビル
+owoc								くだもの
+odwiedzac							たずねる(tazuneru)
+koniecznie							ぜひ(zehi)
+miejsce(tu:dom)						ところ(tokoro)
+przychodzic							来る（くる）
+mieszkac							すむ(sumi)
+mapa								ちず(chizu)
+pisac,rysowac						かく
+wychodzic							でる
+duzy								おおきい
+8minut								はっぷん
+okolo								ぐらい(gurai)
+do									まで
+duzo,wiele							たくさん(takusan)
+brazowy								ちゃいろ
+2pietro								にかい
+wiedziec,rozumiec					わかる(wakaru)
+mysle　ze　jest						あると思います（aruto omoi masu)
+gdzie mieszkasz						どこにすんでいますか(doko ni sunde imasu ka)
+4									よ(uzywane　w　polaczeniu　z　ji）：　よじ(yoji)godzina　czwarta
+９									ku(godzina　oraz　miesiac)：　くじ(godzina　dziewiata）　くがつ(wrzesien)
+３００									さんびゃく（三百）
+６００									ろっぴゃく（六百）
+３０００								さんぜん（三千）
+８０００								はっせん（八千）
+jaki　jest　dzisiaj　dzien　tygodnia　	今日は何曜日ですか（きょうはなんようびですか）　→　kyou　wa　nan　youbi　desu　ka
+dzisiaj　jest　wtorek					今日は火曜日です
+jutro　bedzie　sroda					明日水曜日になります。
+w　niedziele　ide　na　impreze			日曜日にパーティーにいきます
+czwartek							木曜日(mokuyoubi）
+piatek								金曜日(kinyoubi)
+sobota								土曜日(doyoubi)
+ktory jest dzisiaj dzien miesiaca 	今日は何日ですか(kyou　wa　nan　nichi　desu　ka)
+pierwszy							一日（一日　tsuitachi）
+drugi								二日(futsuka)
+trzeci								三日(mikka)
+czwarty								四日(yokka)
+piaty								五日(itsuka)
+szosty								六日（muika）
+siodmy								七日（nanoka）
+osmy								八日(youka)
+dziewiaty							九日(kokonoka)
+dziesiaty							十日（tooka）
+czternasty							十四日(juuyokka)
+dwudziesty							二十日(hatsuka)
+dwudziesty　czwarty					二十四日(nijuuyokka)
+dwudziesty　drugi					二十二日(nijuuni　nichi)
+trzydziesty							三十日(sanjuunichi)
+urodzilem　sie　czwartego				私は四日に生まれました(watashi　wa　yokka　ni　umaremashita)					
+polskie　lato　zaczyna　sie　w　czerwcu		ポオランドのなつは六月になります(poorando　no　natsu　wa　rokugatsu　ni　narimasu)
+urodzilem　sie　28　maja				私は五月㏻ni生まれました(watashi　wa　gogatsu　nijuu　hachi　nichi　ni　umaremashita)
+obietnica							やくそく(yakusoku)
+halo								もしもし
+pojutrze							あさって(asatte)
+isc									行く(iku)
+co　sie　stalo						どうしましたか(dou　shimashita　ka）
+zapominac							わすれる(wasureru)
+egzamin								しけん(shiken)
+zaprzestac,zrezygnowac				やめる(yameru)
+moze,　byc　moze						もし
+potem								あとで
+odpoczywac							休む(yasumu)
+ponownie,　znow						また
+kontaktowac　sie						れんらくする(renraku　suru)
+trzymac　sie、nie　dac　sie,　walczyc	がんばる(gambaru)
+ile　masz　lat						何歳ですか(nan　sai　desu　ka)
+rok									一歳(issai)
+to　dziecko　ma　roczek				この子は一歳です(kono　ko　wa　issai　desu)
+dziecko　tomoko　ma　2　lata			ともこさんの子は二歳(tomoko　san　no　ko　wa　nisai)
+ona　ma　3　lata						彼女は三歳です(kanojo　wa　sansai　desu)
+moje　dziecko　ma　4　lata				私の子供は四歳（watashi　no　kodomo　wa　yonsai)）
+mam　5　lat							五歳です(gosai　desu)
+8　lat								八歳(hassai)！
+10　lat								十歳(jussai)！
+11　lat								十一歳(juuissai)！
+dorosly								大人(otona)
+20　lat								二十歳(hatachi)！
+21　lat								二十一歳（nijuuissai）！
+kiedy　sie　urodziles					いつ生まれましたか(itsu　umaremashita　ka)
+kiedy　masz　urodziny					たんじょうびはいつですか(tanjoubi　wa　itsu　desu　ka)
+mam　urodziny　14　marca				私のたんじょうびは三月十四日です
+lista								リスト(risuto)
+data　urodzenia						生年月日(seinenngappi)
+rok									年(nen)
+jaki								何の(nan　no)
+poniewaz							から
+tak(nieformalne)					ええ
+taki　sam							おなじ(onaji)
+wiek								年(toshi)
+ktora　godzina						今何時ですか(ima　nan　ji　desu　ka)
+przed　poludniem						午前(gozen)
+po　poludniu							午後(gogo)
+pierwsza							一時(ichiji)
+trzecia								三時(sanji)
+czwarta								四時(yoji)！
+siodma								七時(nanaji/shichiji)
+dziewiata							九時(kuji)
+jedna　minuta						一分(ippun)！
+dwie　minuty							二分(nifun)
+trzy　minuty　　　　　　　　　　　　　　　　　　　　　　　	三分(sanpun)！
+szczesc　minut						六分(roppun)！
+osiem　minut							八分(happun)！
+dziesiec　minut						十分(juppun/jippun)
+impreza								パーチー
+o　ktorej　godzinie					何時(nanji)
+zaczynac　sie						はじまる(hajimaru)
+mowi　sie(jest　mowione)				いわれる(iwareru)
+spozniac　sie						おくれる(okureru)
+nie　ma　problemu						もんだいない(mondai　nai)
+razem(z)							一緒に(issho　ni)
+prezent								プレゼント(purezento)
+kupowac								買う
+wejscie								入り口(iriguchi)
+spotykac							会う(au)
+jedna　godzina						一時間(ichijikan)
+zdazyc								まにあう(maniau)
+wybierac							えらぶ(erabu)
+zostawac							のこる(nokoru)
+kawa								コーヒー
+pic									のむ(nomu)
+６：３０								六時はん(rokuji　han)
+do　zobaczenia						バイバイ
+daleki								とおい(tooi)
+budynek								たてもの(tatemono)
+w　poblizu,　w　sasiedztwie,　obok		となり(tonari)
+potrawy								りょうり
+bardzo								とても(totemo)
+sprobowac　pojsc						行ってみる(ittemiru)
+skad								どこの(doko　no)
+zolty　ser							チーズ
+francja								フランス
+a　nastepnie							それから(sore　kara)
+a,acha								ああ(aa)
+baklazan							なす(nasu)
+sprobowac,　skosztowac				食べてみると(tabete　miru)
+prosze　pokazac						見せてください(misete　kudasai)
+sprzedawca							てんいん(tenin)
+buty　na　wysokim　obcasie				ハイヒール(hai　hiiru)
+przymierzyc(buty)					はいてみる(haite　miru)
+styl								スタイロ(sutairo)
+patrzec,widziec,ogladac				見る(miru)
+cena								ねだん(nedan)
+prawie								ほとんど(hotondo)
+z mojego powodu						私のせいで(watashi no seide)
+wkladac								いれる(ireru)
+wsiadac								のる(noru)
+dotrzec,przyjechac,wyladowac		つく(tsuku)
+pracowac　umyslowo					つとめる(tsutomeru)
+brac　prysznic,　lac　wode　na　siebie	あびる(abiru)
+wznosic,podnosic　sie				あがる(agaru)
+podnosic							あげる(ageru)
+myc,prac							あらう(arau)
+bawic　sie							あそぶ(asobu)
+pasowac								あう(au)
+spotykac　sie						会う(spotykac　sie）
+uczyc　sie							べんきょうする(benkyou　suru)
+roznic　sie							ちがう(chigau)
+wysylac,wystawiac					だす(dasu)
+wychodzic							でかれる(dekareru)
+umiec,potrafic						できる(dekiru)
+telefonowac							でんわする(denwa　suru)
+wychodzic							出る(deru)
+wiac(o　wietrze)						ふく(fuku)
+padac(o　deszczu)					ふる(furu)
+wchodzic							入る(hairu)
+zaczynac　sie(on　its　own)			はじまる(hajimaru)
+zaczynac,rozpocznac					はじめる(hajimeru)
+zakladac(na　nogi),gasic				はく(haku)
+rozmawiac,mowic						話す(hanasu)
+wypogadzac　sie,　rozjasniac　sie		はれる(hareru)
+biec,jechac							はしる(hashiru)
+pracowac　							はたらく(hataraku)
+grac　na　instrumentach　strunowych	ひく(hiku)
+ciagnac								ひく(hiku)
+mowic								いう(iu)
+zakladac　na　glowe					かぶる(kaburu)
+zwracac,　oddawac					かえす(kaesu)
+robic　zakupy						買い物をする（kaimono　wo　suru）
+pisac								かく(kaku)
+pozyczac　od　kogos					かりる(kariru)
+pozyczac　komus						かす(kasu)
+brac　slub							けっこんする（kekkon　suru）
+ubierac,nosic						きる(kiru)
+ciac,kroic							きる(kiru)
+kopiowac,serowac					コピーする(kopii　suru）
+odpowiadac							こたえる(kotaeru)
+zachmurzyc　sie						くもる(kumoru)
+przychodzic							来る(kuru)
+czekac								まつ(matsu)
+polerowac,myc　zeby					みがく(migaku)
+ogladac,widziec						見る(miru)
+pokazywac							見せる(miseru)
+miec,trzymac　						もつ(motsu)
+wydawac　dzwieki(o　zwierzetach)		なく(naku)
+plakac								なく(naku)
+zgubic								なくす(nakusu)
+ustawic　w　rzedzie					ならべる(naraberu)
+ustawic　sie							ならぶ(narabu)
+spac								ねる(neru)
+pic									のむ(nomu)
+wsiadac								のる(noru)
+pamietac							おぼえる(oboeru)
+wstawac,budzic　sie					おきる(okiru)
+wysiadac							おりる(oriru)
+uczyc,instruowac,edukowac			おしえる(oshieru)
+pchac,naciskac						おす(osu)
+konczyc　sie							おわる(owaru)
+cwiczyc,trenowac					れんしゅうする(rensuu　suru)
+gotowac								りょうりをつくる(ryouri　wo　tsukuru)
+gotowac(potocznie)					りょうりする(ryouri　suru)
+kwitnac								さく(saku)
+spacerowac							さんぽする（sanpo　suru）
+kluc,　wykluwac						さす(sasu)
+pracowac　							しごとする(shigoto　suru)
+robic								する(suru)
+zatrzymac　sie,　przestac				とまる(tomaru)
+robic　zdjecia						とる(toru)
+brac,zdejmowac						とる(toru)zdejmowac(nakrycie glowy, szalik, kolczyki)
+zmeczyc　sie							つかれる(tsukareru)
+uzywac								つかう(tsukau)
+przyczepiac,przylepiac,zakladac		つける(tsukeru)(wlaczac swiatlo)
+przybywac,docierac					つく(tsuku)
+robic,przygotowywac					つくる(tsukuru)
+rodzic　sie							生まれる(umareru)
+ile ludzi mieszka w tokio			とうきょうに何人すんでいますか(toukyou　ni　nan　nin　sunde　imasu　ka)
+olowek								えんぴつ(enpitsu)
+spodnie								ズボン(zubon)
+sprzedawac							うる(uru)
+spiewac								うたう(utau)
+rozumiec							分かる(wakaru)
+zapominac							わすれる(wasureru)
+przechodzic　przez,przekraczac		わたる(wataru)
+wreczac,przekazywac					わたす(watasu)
+dawac(komus　nizej　w　hierarchii)		やる(yaru)
+odpoczywac							休む(yasumu)
+wolac								よぶ(yobu)
+czytac								よむ(yomu)
+myslec								かんがえる(kangaeru)
+wiedziec,znac						しる(shiru)
+zakanczac							しまう(shimau)
+latac								とぶ(tobu)
+spieszyc　sie						いそぐ(isogu)
+cos									何か(nanika)
+myslec								おもう(omou)
+obiad								ばんごはん(ban　gohan)
+gazeta								しんぶん(shinbun)
+prysznic							シャワー(shawaa)
+muzyka								おんがく(ongaku)
+przedwczoraj						おととい(ototoi)
+wczoraj　wieczorem					ゆうべ(yuube)
+wczoraj　wieczorem					きのうのよる(kinou　no　yoru)
+dosiegnac							およぐ(oyogu)
+niesmaczny							まずい(mazui)
+plywac								およぐ(oyogu)
+kapiel								おふろ(ofuro)
+do pozna							おそく(osoku)
+placic								はらい(harai)
+sprzatac							そうじ(souji)
+dzisiejszej　nocy					こんばん(konban)
+hobby								しゅみ(shumi)
+ostatnio							さいきん(saikin)
+nigdy								けっして(kesshite)
+kto tu jest							ここにはだれがいますか(kokoni　wa　dare　ka　imasuka)
+bilet　do　japonii					日本へのきっぷ(nihon　he　no　kippu)
+ile　masz　lat						何さいですか(nan　sai　desu　ka)
+o　ktorej　jutro　przyjdziesz			明日、何時に来ますか（ashita　nan　ji　ni　kimasu　ka)
+co　powiesz　na　sok					ジュースはどうですか(juusu　wa　dou　desu　ka）
