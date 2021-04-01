@@ -8,10 +8,10 @@ public class Exam {
 
     public Exam(List<Word> splitWords) {
         this.splitWords = splitWords;
-        menu();
+
     }
 
-    private void menu() {
+    public void menu() {
         System.out.println("Wybierz tryb gry: ");
         System.out.println("1. Survival\n2. Vs time\n3. Fixed amount of questions.\n0. Exit");
         Scanner scanner = new Scanner(System.in);
